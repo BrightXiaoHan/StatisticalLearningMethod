@@ -7,6 +7,7 @@
 ## 章节
 - [章节二：感知机](Chapter3__Perceptron/README.md)
 - [章节三：K近邻](Chapter2__k-Nearest_Neighbor/README.md)
+- [章节四：朴素贝叶斯](Chapter4__Native_Bayes/README.md)
 
 ## License
 [MIT LICENSE](LICENSE)
